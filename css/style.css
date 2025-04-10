@@ -1,0 +1,43 @@
+h1{
+    color: aliceblue;
+    background-color: red;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    background-color: red;
+}
+#hh{
+    color: aliceblue;
+    background-color: black;
+}
+.warnasatu{
+    color: green;
+    background-color: blue;
+}
+.warnadua{
+    color: blueviolet;
+    background-color: goldenrod;
+}
+.warnatiga{
+    color: deeppink;
+    background-color: coral;
+}
+#kotak-satu{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-bottom: 30px;
+}
+#kotak-dua{
+    height: 100px;
+    width: 300px;
+    background-color: black;
+    margin-bottom: 30px;
+}
+#kotak-tiga{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    border-radius: 50%;
+}

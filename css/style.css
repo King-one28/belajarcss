@@ -41,3 +41,15 @@ p{
     background-color: skyblue;
     border-radius: 50%;
 }
+#bikinbg{
+    width: 500 px;
+    height: 200 px;
+    background-color: brown;
+    color: white;
+}
+#bikinbg h2{
+    text-align: center;
+    padding-top: 80px;
+}
+
+
